@@ -12,7 +12,7 @@ Dataset source:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ```
 
-The dataset contains information on approximately 100,000 orders made from 2016 to 2018 in Brazil. It includes order status, price, payment, freight performance, customer location, product attributes, seller information, and customer reviews.
+The dataset contains information made from 2016 to 2018 in Brazil. It includes order status, price, payment, freight performance, customer location, product attributes, seller information, and customer reviews.
 
 The dataset is anonymized and publicly available for non-commercial use under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
