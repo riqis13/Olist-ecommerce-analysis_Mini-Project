@@ -2,13 +2,20 @@
 
 This repository contains an exploratory data analysis project using the **Brazilian E-Commerce Public Dataset by Olist**. The analysis focuses on customer behavior, order patterns, seller performance, product categories, payment behavior, delivery performance, and review scores in the Brazilian e-commerce marketplace.
 
-## Dataset
+## Dataset & License
 
-The dataset used in this project is the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle:
+The dataset used in this project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+This means the dataset can be used with the following conditions:
+
+- **Attribution**: Credit must be given to the original dataset provider.
+- **NonCommercial**: The dataset cannot be used for commercial purposes.
+- **ShareAlike**: Any derivative work based on the dataset should be shared under the same license.
+
+Dataset source:
 
 ```text
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-```
 
 ## Download Dataset
 
